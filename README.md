@@ -1,3 +1,3 @@
 My personal scripts.
 
-Licensed under Apache License 2.0
+:information_source: Licensed under Apache License 2.0
